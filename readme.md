@@ -1,3 +1,5 @@
+Assignment Specification
+
 A fitness club would like to create an application that allows members to register for club membership
 online. The application should be implemented using client/server model, where client can register for
 membership by providing their details (such as name, address, phone number, etc.…) using a program
